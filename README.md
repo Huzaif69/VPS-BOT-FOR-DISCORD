@@ -8,12 +8,10 @@
 
 
 
-*Paid Version Also Available!*
-
 
 
 # Made By BossOPMC
-
+# Edited By Huzaif909
 ### ✨️ ``Features`` ✨️
 
 ``SYSTEMD`` 
@@ -21,14 +19,13 @@
 ``CAN INSTALL ALL THINGS`` REAL VPS
 ``EASY TO SETUP``
 ``NODE AUTO DELETION`` IF YOUR VPS GET FULLED STORAGE WITH ALL SSH VPS THEN IT WILL DELETE ALL VPS
-BTW IF YOU INDEED THEN DM @BossOPMC
-``CPU&GPU CRYPTO AUTOBAN`` IT CAN BAN ALL CRYPTO IF YOU ENABLE ``anti.sh``
+BTW IF YOU INDEED THEN DM @huzaif909
 ``MORE COMMAND AND PACKAGE ADDING SOON``
 
 ## OS Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+``Use this section to tell people about which versions of your project are
+currently being supported with security updates.``
 
 | Version | Supported          |
 | ------- | ------------------ |
