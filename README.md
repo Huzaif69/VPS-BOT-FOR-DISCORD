@@ -1,7 +1,7 @@
 # How to install?
 ``1st:- apt install docker.io``
 ``2nd:- pip install -r requirements.txt``
-``3rd:- run this command in terminal `docker build -t ubuntu-22.04-with-tmate . and wait until its done``
+``3rd:- run this command in terminal docker build -t ubuntu-22.04-with-tmate . and wait until its done``
 ``4th:- nano bot.py``
 ``add your bot token`` 
 
@@ -11,7 +11,9 @@
 
 
 
-# Made By Huzaif909
+# Code by BossMcop
+# Edited By Huzaif
+# Check licence
 ### ``Features`` 
 
 ``SYSTEMD`` 
