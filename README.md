@@ -1,8 +1,9 @@
-**1st pip install -r requirements.txt**
-**2nd touch Dockerfile**
-**3rd docker build -t ubuntu-22.04-with-tmate .**
-**4th python3 bot.py**
-**add token!**
+# How to install?
+``1st:- apt install docker.io``
+``2nd:- pip install -r requirements.txt``
+``3rd:- run this command in terminal `docker build -t ubuntu-22.04-with-tmate .` and wait until its done``
+``4th:- nano bot.py``
+``add your bot token`` 
 
 *you are done*
 
@@ -10,9 +11,8 @@
 
 
 
-# Made By BossOPMC
-# Edited By Huzaif909
-### ✨️ ``Features`` ✨️
+# Made By Huzaif909
+### ``Features`` 
 
 ``SYSTEMD`` 
 ``ADMIN COMMANDS`` MORE ADDING SOON
@@ -34,10 +34,5 @@ currently being supported with security updates.``
 | u20.04 | :white_check_mark: |
 | d11   | :x:                |
 
-## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+# If you like this project just give start ⭐ 
